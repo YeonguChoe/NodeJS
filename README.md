@@ -1,8 +1,8 @@
 # NodeJS
 
-Axios
-Express
-Fetch
-HTTP
-WebSocket
-GraphQL
+- Axios
+- Express
+- Fetch
+- HTTP
+- WebSocket
+- GraphQL
