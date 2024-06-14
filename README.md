@@ -10,9 +10,6 @@
 - HTTP
 - Fetch
 
-
-
-
 ---
 - WebSocket
 - GraphQL
